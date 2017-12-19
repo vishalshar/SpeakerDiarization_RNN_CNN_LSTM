@@ -11,3 +11,4 @@ Code for RNN is in Alg4_RNN_1channel_2classes.py
 ## Convolution Neural Network (CNN)
 Code for CNN is in CNN_1channel_2classes.py
 ## Documentation is in folder /documentation
+Documentation: speaker-diarization-recurrent.pdf
