@@ -1,5 +1,5 @@
 
-# SpeakerDiarization_RNN
+# SpeakerDiarization
 Speaker Diarization is the problem of separating speakers in an audio. There could be any number of speakers and final result should state when speaker starts and ends. In this project, we analyze given audio file with 2 channels and 2 speakers (on separate channel). We train Neural Network for learning when a person is speaking. We use different type of Neural Networks specifically, Single Layer Perceptron (SLP), Multi Layer Perceptron (MLP), Recurrent Neural Network (RNN) and Convolution Neural Network (CNN) we achieve  $\sim$92\% of accuracy with RNN. 
 
 
@@ -48,5 +48,6 @@ To apply CNN \cite{krizhevsky2012imagenet}, we at first compute the spectrogram 
 
 # Results
 
-
-
+![MLP](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/MLP_6.png)
+![CNN](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/CNN_1.png)
+![RNN](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/RNN_4.png)
