@@ -1,5 +1,5 @@
 ## Citation
-If you find our project helpful please cite our arxiv paper below:
+If you find our project helpful please cite our arxiv report below:
 
 ```
 @misc{sharma2020speaker,
