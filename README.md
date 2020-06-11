@@ -2,7 +2,14 @@
 If you find our project helpful please cite our arxiv paper below:
 
 ```
-
+@misc{sharma2020speaker,
+    title={Speaker Diarization: Using Recurrent Neural Networks},
+    author={Vishal Sharma and Zekun Zhang and Zachary Neubert and Curtis Dyreson},
+    year={2020},
+    eprint={2006.05596},
+    archivePrefix={arXiv},
+    primaryClass={eess.AS}
+}
 ```
 
 # SpeakerDiarization
