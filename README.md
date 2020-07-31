@@ -64,3 +64,6 @@ To apply CNN, we at first compute the spectrogram for each row of the data matri
 ![MLP](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/MLP_6.png)
 ![CNN](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/CNN_1.png)
 ![RNN](https://github.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM/blob/master/documentation/speaker-diarization-recurrent/RNN_4.png)
+
+
+[![HitCount](http://hits.dwyl.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM.svg)](http://hits.dwyl.com/vishalshar/SpeakerDiarization_RNN_CNN_LSTM)
